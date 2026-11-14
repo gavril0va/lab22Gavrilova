@@ -51,7 +51,7 @@ foreach (string word in words)
 }
 
 Console.WriteLine();
-Console.WriteLine(">>> Анализ слов <<<");
+Console.WriteLine("Анализ слов");
 Console.WriteLine();
 Console.WriteLine("Исходная строка: [" + text + "]");
 Console.WriteLine("Всего слов: " + words.Length);
